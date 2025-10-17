@@ -1,6 +1,5 @@
 # 🌀 aria - Achref Riahi AI Assistant
 
-> The world's first open-source AI coding architect in the terminal
 
 [![PyPI version](https://img.shields.io/pypi/v/aria-cli.svg)](https://pypi.org/project/aria-cli/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
